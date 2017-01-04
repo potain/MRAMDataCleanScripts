@@ -1,0 +1,1 @@
+This project collecte the scripts used to manipulate/clean the data files from MRAM.
